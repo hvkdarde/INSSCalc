@@ -1,8 +1,8 @@
 # INSSCalc
 Extremely simple and rudimentary INSS Calculator made with RUST
-INSTRUCTIONS FOR SAFE USE :
-1 - Open up CMD
-2 - Type cd (filename)
-3 - Type "Cargo Run"
-4 - Insert data
-5 - Press <Enter> to close
+<br/>INSTRUCTIONS FOR SAFE USE :
+<br/>1 - Open up CMD
+<br/>2 - Type cd (filename)
+<br/>3 - Type "Cargo Run"
+<br/>4 - Insert data
+<br/>5 - Press Enter to close
